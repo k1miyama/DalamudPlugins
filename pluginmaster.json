@@ -4,7 +4,7 @@
         "Name":  "Treasure Pilot",
         "InternalName":  "TreasurePilot",
         "AssemblyVersion":  "0.8.6.0",
-        "Description":  "Leader/follower treasure hunt orchestration. Requires vnavmesh, Lifestream, BossMod Reborn, Rotation Solver Reborn, LazyLoot and the upstream-listed Avarice prerequisite. Includes automatic Agonon and Vault Oneiron handling, capped live-validated map purchases through Universalis, and built-in diagnostic timelines with local failure reports.",
+        "Description":  "Automate treasure hunts for you. Requires some setup.",
         "ApplicableVersion":  "any",
         "Tags":  [
                      "treasure",
@@ -16,7 +16,7 @@
         "LoadSync":  false,
         "CanUnloadAsync":  false,
         "LoadPriority":  0,
-        "Punchline":  "Leader and follower treasure hunt automation.",
+        "Punchline":  "Automate treasure hunts for you.",
         "AcceptsFeedback":  true,
         "RepoUrl":  "https://github.com/k1miyama/DalamudPlugins",
         "IconUrl":  "https://raw.githubusercontent.com/k1miyama/DalamudPlugins/main/plugins/TreasurePilot/icon.png",
