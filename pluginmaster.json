@@ -3,7 +3,7 @@
         "Author":  "Aki",
         "Name":  "Treasure Pilot",
         "InternalName":  "TreasurePilot",
-        "AssemblyVersion":  "0.9.0.0",
+        "AssemblyVersion":  "0.10.2.0",
         "Description":  "Automate treasure hunts for you. Requires some setup.",
         "ApplicableVersion":  "any",
         "Tags":  [
@@ -25,6 +25,6 @@
         "DownloadLinkTesting":  "https://raw.githubusercontent.com/k1miyama/DalamudPlugins/main/plugins/TreasurePilot/latest.zip",
         "IsHide":  false,
         "IsTestingExclusive":  false,
-        "LastUpdate":  1791973365
+        "LastUpdate":  1792045870
     }
 ]
